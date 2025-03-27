@@ -1,9 +1,9 @@
 <?php
 // Conectar ao banco de dados
 $servername = "localhost"; 
-$username = "pagoun00_cadatros"; 
+$username = "pagoun00_cadata"; 
 $password = "Trampo010203@"; 
-$dbname = "pagoun00_cadatros"; 
+$dbname = "pagoun00_cadata"; 
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
